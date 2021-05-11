@@ -1,0 +1,10 @@
+C:\Users\lenovo\source\repos\Vpicture\bin\Debug\Vpicture.exe.config
+C:\Users\lenovo\source\repos\Vpicture\bin\Debug\Vpicture.exe
+C:\Users\lenovo\source\repos\Vpicture\bin\Debug\Vpicture.pdb
+C:\Users\lenovo\source\repos\Vpicture\obj\Debug\Vpicture.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Vpicture\obj\Debug\Vpicture.Form1.resources
+C:\Users\lenovo\source\repos\Vpicture\obj\Debug\Vpicture.Properties.Resources.resources
+C:\Users\lenovo\source\repos\Vpicture\obj\Debug\Vpicture.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\Vpicture\obj\Debug\Vpicture.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Vpicture\obj\Debug\Vpicture.exe
+C:\Users\lenovo\source\repos\Vpicture\obj\Debug\Vpicture.pdb
